@@ -1,4 +1,4 @@
-<a href="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/README.md" target="_blank">
+<a href="https://github.com/filipeleonelbatista/youtube-floating/blob/master/README.md" target="_blank">
   <img src="https://raw.githubusercontent.com/filipeleonelbatista/filipeleonelbatista/master/assets/brasil_bandeira.png" width="28px" />
   Version in Brasilian Portuguese
 </a>
